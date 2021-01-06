@@ -1,12 +1,11 @@
 # iOS Hello App
 
 ### App Description
-`TODO://` Add app description
+This app greets the user and allows the user to change text and view colors to random colors, as well as to change text to input they give or a random string from a pre-written array.
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+<img src="https://i.imgur.com/JNZVTy4.gif" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
